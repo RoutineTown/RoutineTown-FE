@@ -1,3 +1,7 @@
+# RoutineTown-FE
+서울여자대학교 디지털미디어학과 졸업프로젝트 루틴타운 프론트엔드 레포지토리
+
+
 
 ## Git Branch Strategy
 - `main`: 배포 가능하도록 관리 브랜치
